@@ -1,0 +1,143 @@
+body {
+  border-color: #C6DE41;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #2D6E7E;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 5rem;
+  text-align: center;
+}
+
+h2 {
+  color: #071C21;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: normal;
+  font-size: 1.75rem;
+  text-align: center;
+}
+
+a {
+  color: #071C21;
+}
+
+h3 {
+  color: #071C21;
+  font-family: 'Bebas Neue', cursive;
+}
+
+p {
+  color: #071C21;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20;
+}
+
+hr {
+  border-color: #C6DE41;
+  border-top-style: dotted;
+  border-top-width: thick;
+  border-bottom: none;
+  width: 15%;
+}
+
+.selfi {
+  margin: 50px auto 0 auto;
+}
+
+.first_block {
+  background-color: #C6DE41;
+  padding: 20px;
+  position: relative;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.second_block {
+  background-color: #2D6E7E;
+  text-align: center;
+}
+
+.third_block {
+  background-color: #C6DE41;
+  margin-bottom: 0;
+  border: 1px solid #C6DE41;
+  text-align: center;
+}
+
+.python {
+  text-align: left;
+  margin: 50px;
+}
+
+.Csharp {
+  text-align: right;
+  margin: 50px;
+}
+
+.htmlcss {
+  text-align: left;
+  margin: 50px;
+}
+.music {
+  text-align: right;
+  margin: 50px;
+}
+.bartending {
+  text-align: left;
+  margin: 50px;
+}
+
+
+
+.right-img {
+  width: 15%;
+  float: right;
+  margin-left: 50px
+}
+
+.left-img {
+  width: 15%;
+  float: left;
+  margin-right: 50px
+}
+
+.profile {
+  margin: 0 auto 100px auto;
+  width: 60%;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+  width: 60%;
+}
+
+.contact-me {
+  width: 60%;
+  margin: 100px auto 0 auto;
+  text-align: center;
+}
+
+.btn {
+  font-family: 'Bebas Neue' bold;
+  background: #2D6E7E;
+  background-image: -webkit-linear-gradient(top, #2D6E7E, #a8b82b);
+  background-image: -moz-linear-gradient(top, #2D6E7E, #a8b82b);
+  background-image: -ms-linear-gradient(top, #2D6E7E, #a8b82b);
+  background-image: -o-linear-gradient(top, #2D6E7E, #a8b82b);
+  background-image: linear-gradient(to bottom, #2D6E7E, #a8b82b);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #C6DE41;
+  color: #071C21;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
